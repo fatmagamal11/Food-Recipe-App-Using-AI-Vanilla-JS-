@@ -157,6 +157,5 @@
             position: fixed;
             top: 0;
             display: none;
-            border: solid red;
             background-color: rgba(0, 0, 0, 0.35);
         }
